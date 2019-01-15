@@ -1,2 +1,2 @@
-# FanMuisc
+# FanMusic
 Fun soulful music app
